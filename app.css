@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'Font';
-  src: url(/font/ofont.ru_Bad\ Comic.ttf);
+  src: url(https://pyplee.github.io/My-first-project/font/ofont.ru_Bad\ Comic.ttf);
 }
 
 @font-face {
   font-family: 'Warface';
-  src: url(/font/warfaceregularrussian.ttf);
+  src: url(https://pyplee.github.io/My-first-project/font/warfaceregularrussian.ttf);
 }
 
 body {
-  background-image: url("/image/back.jpeg");
+  background-image: url("https://pyplee.github.io/My-first-project/image/back.jpeg");
 }
 
 .btn {
